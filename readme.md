@@ -10,9 +10,10 @@
 * Analyzing the key variables
 * Creating Report with all the results and analysis for the company.
 
-## Skills
+## Tools
 * Python
 * SQL
+* Sqlite
 
 ## Dataset
 * Download the dataset from [Kaggle](https://www.kaggle.com/datasets/fiazbhk/airline-data-analysis?select=travel.sqlite).
