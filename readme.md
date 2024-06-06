@@ -1,5 +1,3 @@
-![Image Alt Text](https://images.pexels.com/photos/358319/pexels-photo-358319.jpeg)
-
 # Airlines Data Analysis
 
 ## Steps Included
